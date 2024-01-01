@@ -1,0 +1,1 @@
+{"bos_token": "<pad>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>", "cls_token": "<pad>", "pad_token": "<s>", "mask_token": "<mask>", "model_max_length": 512, "name_or_path": "xlm-roberta-large"}
